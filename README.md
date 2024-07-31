@@ -14,7 +14,7 @@ This project involves developing a deep learning model using TensorFlow and Kera
 - Keras
 
 ## Dataset
-- [Dataset]([https://www.linkedin.com/in/naga-varun-bokka](https://www.kaggle.com/datasets/arjuntejaswi/plant-village))
+- [Dataset](https://www.kaggle.com/datasets/arjuntejaswi/plant-village)
 
 ## Installation
 1. Clone the repository:
